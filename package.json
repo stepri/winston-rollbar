@@ -10,7 +10,7 @@
     },
     "keywords": ["logging", "sysadmin", "tools", "winston", "rollbar"],
     "dependencies": {
-        "rollbar": "0.3.2"
+        "rollbar": "0.4.4"
     },
     "devDependencies": {
         "winston": "0.6.2",
